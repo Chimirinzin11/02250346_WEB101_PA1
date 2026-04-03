@@ -55,6 +55,23 @@ src
 [ProductCard.jsx] [Footer.jsx]
 -->data--->[products.js]
 
+------------------
+Learning Outcomes
+------------------
+* Gained understanding of how Next.js works and is used for 
+* Learned UI/UX design.
+* Improved skills in Tailwind CSS and javascripts.
+* Learned how each page is related and how to combine them .
+
+--------------------
+Future Improvements
+--------------------
+* To Add backend server
+* Implement search functionality
+* Add cart system and some new features
+* Log in and sign up 
+* API design.
+
 
 
 
