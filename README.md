@@ -8,7 +8,7 @@ Goal:
 This practical is a front-end replica of the well-known Indian e-commerce site Flipkart. (Home-page). It emulates the fundamental shopping experience by allowing users to browse products by category, view deals, explore product details, and move between sections utilizing React's component-based structure and also uses React Icons
 
 ------------------------
-HOW IT Looks and WORKS?
+HOW it Looks and WORKS?
 ------------------------
 Home_Page
 Consists of Navigation Bar, Category Navigation, Flipcart Home, 4 sections(Deal of the day,Electronics,Fashion and Home)
@@ -49,15 +49,22 @@ product/[id]/page.jsx---> dynamic route page that receives the product id from t
 
 7. Full Layout
    
-src/
-├── app/
-│   ├── deals/page.jsx
-│   ├── electronics/page.jsx
-│   ├── fashion/page.jsx
-│   ├── home/page.jsx
-│   ├── product/[id]/page.jsx
-│   ├── layout.js
-│   └── page.jsx
+src
+-->app
+-->components
+-->data
+app
+├── deals/page.jsx
+├── electronics/page.jsx
+├── fashion/page.jsx
+├── home/page.jsx
+├── product/[id]/page.jsx
+├── layout.js
+└── page.jsx
+
+
+
+
 ├── components/
 │   ├── Navbar/
 │   │   ├── Navbar.jsx
