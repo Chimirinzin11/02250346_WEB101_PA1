@@ -74,6 +74,33 @@ Future Improvements
 
 
 
+----------
+References
+----------
+
+1. **Next.js Documentation**
+   https://nextjs.org/docs
+
+2. **React Documentation**
+   https://react.dev/
+
+3. **Tailwind CSS Documentation**
+   https://tailwindcss.com/docs
+  
+
+4. **React Icons Library**
+   https://react-icons.github.io/react-icons/
+  
+5. **Flipkart Official Website (UI Reference)**
+   https://www.flipkart.com/
+   
+6. **SeaArt.Ai**
+   https://www.seaart.ai
+   for image generation 
+
+
+
+
 
 
 
