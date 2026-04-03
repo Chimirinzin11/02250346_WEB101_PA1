@@ -50,30 +50,13 @@ product/[id]/page.jsx---> dynamic route page that receives the product id from t
 7. Full Layout
    
 src
--->app
--->components
--->data
-app
-├── deals/page.jsx
-├── electronics/page.jsx
-├── fashion/page.jsx
-├── home/page.jsx
-├── product/[id]/page.jsx
-├── layout.js
-└── page.jsx
+-->app-->[deals/page.jsx] [electronics/page.jsx] [fashion/page.jsx] [ home/page.jsx] [product/[id]/page.jsx] [layout.js] [page.jsx]
+-->components--> [Navbar-->  Navbar.jsx, CategoryNav.jsx, SearchBar.jsx] [ home--> HeroBanner.jsx, ProductSection.jsx]
+[ProductCard.jsx] [Footer.jsx]
+-->data--->[products.js]
 
 
 
 
-├── components/
-│   ├── Navbar/
-│   │   ├── Navbar.jsx
-│   │   ├── CategoryNav.jsx
-│   │   └── SearchBar.jsx
-│   ├── home/
-│   │   ├── HeroBanner.jsx
-│   │   └── ProductSection.jsx
-│   ├── ProductCard.jsx
-│   └── Footer.jsx
-└── data/
-    └── products.js
+
+
